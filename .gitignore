@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/openigsb
+openigsb.so
+openigsb.dylib
+openigsb.dll
+openigsb.a
+openigsb.lib
+openigsb-test-*
+*.exe
+*.o
+*.obj
+*.lst

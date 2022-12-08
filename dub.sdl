@@ -1,0 +1,5 @@
+name "openigsb"
+description "OSS reimplementation of the I've Got Some Balls engine"
+authors "Luna"
+copyright "Copyright © 2022, Luna"
+license "BSD 2-clause"
